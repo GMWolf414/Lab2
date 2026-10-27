@@ -2,8 +2,8 @@
 
 **Przedmiot:** Uczenie głębokie do rozpoznawania obiektów  
 **Zajęcia nr / temat:** 2 — Trenowanie i strojenie klasyfikatora obrazów  
-**Autor / grupa:** Oskar … / …  
-**Data:** …
+**Autor / grupa:** Oskar Pietrzak / 3  
+**Data:** 27.10.2026
 
 ## 1. Cel ćwiczenia
 
